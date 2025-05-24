@@ -29,3 +29,24 @@ Explorar o recurso de transcrição automática de fala para texto e avaliar sua
 ## 🧪 Resultados Obtidos
 
 - Transcrição gerada:  
+
+
+- Precisão percebida: ⭐⭐⭐⭐☆
+
+- Erros ou ajustes necessários:
+- [Exemplo: confusão entre "cinto" e "sinto"]
+- [Exemplo: falha em reconhecer nomes próprios]
+
+---
+
+## 💡 Observações Finais
+
+- O serviço funcionou bem em ambientes com pouco ruído.
+- Há necessidade de limpeza prévia no áudio para melhorar a transcrição.
+- Pode ser útil para legendagem automática, acessibilidade, etc.
+
+---
+
+## 📸 Capturas de Tela
+
+- Ver `/images/speech-studio-config.png`
