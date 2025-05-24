@@ -26,27 +26,14 @@ Este repositório foi criado como parte do desafio da DIO para praticar o uso da
 
 - `speech-studio-notes.md`: anotações sobre uso, testes e observações com o Speech Studio.
 - `language-studio-notes.md`: anotações e exemplos práticos com o Language Studio.
-- Pasta `/images`: capturas de tela para complementar a documentação.
 
 ---
 
 ## 🧠 Principais Aprendizados
 
 - Como criar e testar modelos de transcrição de fala.
-- Como analisar sentimentos, extração de entidades e análise de texto com Language Studio.
+- Como analisar sentimentos, extrair entidades e classificar texto com o Language Studio.
 - Importância de documentar o processo técnico de forma organizada.
-
----
-
-## 📸 Exemplos
-
-### Speech Studio
-
-![Configuração Speech Studio](images/speech-studio-config.png)
-
-### Language Studio
-
-![Exemplo Language Studio](images/language-studio-example.png)
 
 ---
 
@@ -54,7 +41,7 @@ Este repositório foi criado como parte do desafio da DIO para praticar o uso da
 
 1. Acesse o [Speech Studio](https://speech.microsoft.com/) e crie um projeto de transcrição.
 2. Acesse o [Language Studio](https://language.azure.com/) e explore as funcionalidades de análise de texto.
-3. Documente suas descobertas e inclua capturas de tela para ilustrar o processo.
+3. Documente suas descobertas utilizando Markdown.
 
 ---
 
