@@ -46,7 +46,3 @@ Explorar o recurso de transcrição automática de fala para texto e avaliar sua
 - Pode ser útil para legendagem automática, acessibilidade, etc.
 
 ---
-
-## 📸 Capturas de Tela
-
-- Ver `/images/speech-studio-config.png`
