@@ -58,7 +58,3 @@ Testar funcionalidades como análise de sentimentos, extração de entidades e c
 - Geração de insights de marketing
 
 ---
-
-## 📸 Capturas de Tela
-
-- Ver `/images/language-studio-example.png`
